@@ -1,4 +1,4 @@
-#include "main.h"
+#include "hsh.h"
 
 /**
  * _strtok - funct that splits str using some delimiter.

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "hsh.h"
 
 /**
  * _strdup - funct that duplicates the string in the heap memory.

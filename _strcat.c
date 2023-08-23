@@ -1,4 +1,4 @@
-#include "main.h"
+#include "hsh.h"
 
 /**
  * _strcat - join the two strings

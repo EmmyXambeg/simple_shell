@@ -1,4 +1,4 @@
-#include "main.h"
+#include "hsh.h"
 
 /**
  * _memcpy - functions that copies information between void pointers.

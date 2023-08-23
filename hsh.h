@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef HSH_H
+#define HSH_H
 
 extern char **environ;
 
@@ -169,4 +169,4 @@ int get_error(data_input *datum, int eval);
 
 
 
-#endif /* MAIN_H */
+#endif /* HSH_H */

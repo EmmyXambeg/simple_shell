@@ -1,4 +1,4 @@
-#include "main.h"
+#include "hsh.h"
 
 /**
  * *_strcpy - funct that Copies the string pointed to by src.
